@@ -4,6 +4,7 @@ name: Update repository labels
 on:
   push:
     branches:
+    - master
     - main
     paths:
     - '.github/workflows/labels.yml'
