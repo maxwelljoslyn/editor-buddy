@@ -2,6 +2,7 @@
 name: Update repository labels
 
 on:
+  workflow_dispatch:
   push:
     branches:
     - master
