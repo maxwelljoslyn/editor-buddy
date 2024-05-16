@@ -20,7 +20,7 @@ jobs:
         [
           {"name": "research", "color": "e99695", "description": "Long-term investigations, or experimenting with new techniques"},
           {"name": "thirdparty", "color": "c5def5", "description": "Make project suitable for 3rd-party users."},
-          {"name": "ux", "color": "c2e0c6", "description": " Make the project easier to learn, use, and master."},
+          {"name": "ux", "color": "c2e0c6", "description": " Make the project easier to learn, use, and master."}
         ]
     steps:
     - uses: actions/github-script@v7
